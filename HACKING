@@ -1,0 +1,7 @@
+The following filters are available for manipulating the behaviour of the plugin:
+
+* remove_comment_ip_days_to_deletion
+  Number of days to keep IP addresses. 60 days is the default.
+
+By the by, the Remove Comment IPs for WordPress project welcomes your patches.
+
